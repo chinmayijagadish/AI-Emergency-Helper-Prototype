@@ -1,0 +1,7 @@
+{
+  "name": "AI-Emergency-Helper-Prototype",
+  "description": "A calm, intelligent first aid assistant providing clear, step-by-step instructions for urgent situations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
