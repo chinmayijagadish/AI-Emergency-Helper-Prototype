@@ -106,7 +106,7 @@ In life-threatening situations, always contact emergency services immediately.
 
 ## 👩‍💻 Author
 
-**Chinmayi Jagadish**
+**Chinmayi**
 
 ---
 
