@@ -45,15 +45,42 @@ This prototype was developed using **Google AI Studio** to validate the concept 
 
 ## 🚀 Run Locally
 
-**Prerequisites:** Node.js installed
+### Prerequisites
 
-2. Create a file named `.env.local` in the project root and add:
+- Node.js installed on your system
 
+### Steps
+
+1️⃣ **Install dependencies**
+
+```bash
+npm install
+```
+
+2️⃣ **Create environment file**
+
+Create a file named `.env.local` in the project root folder and add your Gemini API key:
+
+```env
 GEMINI_API_KEY=YOUR_API_KEY_HERE
+```
 
+3️⃣ **Start the development server**
 
-3. Run the application
-  npm run dev
+```bash
+npm run dev
+```
+
+4️⃣ **Open in browser**
+
+After running the command, open the local URL shown in the terminal (usually):
+
+```
+http://localhost:5173
+```
+
+> ⚠️ Never upload your API key to GitHub. Keep it private inside `.env.local`.
+
 
 
 
@@ -89,5 +116,5 @@ Prototype — Concept validation completed.
 Full Android implementation planned.
 
 
-1. Install dependencies
+
 
